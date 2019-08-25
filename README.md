@@ -72,7 +72,7 @@ Para enviar tu mensaje al whatsaap ya sea cubierto o descubierto, debes presiona
 Si bien se cumplió en gran parte la planificación inicial, esta se fue modificando según los testeos que se realizaron para mejorar su usabilidad.
 [Tablero de Trello]https://trello.com/b/5thmiH7Z/terceraedad  
 
-! [Flujo](https://ibb.co/kD89KFR)
+![Flujo](/img/Explicacion de Uso.PNG)
 
 
 ## Prototipado
