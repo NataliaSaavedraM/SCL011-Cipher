@@ -35,6 +35,8 @@ btnContraseña.addEventListener("click", () => {
   contraseñaGenerada.innerHTML = "Su nueva contraseña es:  " + contraseña;
 });
 
+
+
 const btnCifrar = document.getElementById("cifrar"); //boton cifrar
 let msjCifrado = document.getElementById("respCifrada");
 btnCifrar.addEventListener("click", () => {
