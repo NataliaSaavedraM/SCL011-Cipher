@@ -8,25 +8,25 @@ El proceso y decisiones de diseño fueron pensadas según la investigación real
 
 Muchas personas de la tercera edad que utilizan sistemas informáticos como bancos en línea, cuentas en afps, correo electrónico, etc. tienen dificultades para generar contraseñas y mantener información a la mano disponible, en forma privada. lo cual les genera un problema para acceder con facilidad a sus cuentas.  
 
-##Principales usuarios de producto.   
+## Principales usuarios de producto.   
 
 Personas de la tercera edad que tiene dificultad de memorizar claves o guardar información importante privada al alcance de sus manos.
 
-##El propósito de los usuarios en relación al producto.
+## El propósito de los usuarios en relación al producto.
 Obtener contraseñas que puedan guardar en papel. de modo que sea accesible para ellos, sin que deje de ser privado. lo cual se lograría al poder escribir o imprimir en papel la información relacionada a determinadas contraseñas y la descripción de esta de manera cifrada, siendo el usuario el único que estaría en condición de descifrarla accediendo a su cuenta. 
 
 
-##Solución al problema de perder contraseñas y cambiarlas continuamente, muchas veces con ayuda de soporte telefónico. 
+## Solución al problema de perder contraseñas y cambiarlas continuamente, muchas veces con ayuda de soporte telefónico. 
 
 Al tener su información a la mano, haría que ellos no tuvieran que estar reseteando o recuperando cuentas continuamente.  Lo cual les ahorraría tiempo y esfuerzo.
 
 
-##Acceso del usuario a la aplicación:
+## Acceso del usuario a la aplicación:
 Para acceder a la Aplicación, los usuarios  deben ingresar a  su navegador de preferencia, por  ejemplo Chrome e ingresar a la siguiente página:[Aplicación](https://nataliasaavedram.github.io/SCL011-Cipher/src/index.html)
 Luego deberá ingresar los datos solicitados, los cuales encuentra en su cedula de identidad y acceda a su cuenta personal.
 
 
-##Glosario de la Aplicación
+## Glosario de la Aplicación
 Clave alfanumérica: Clave de 8 caracteres compuesta por 2 letras 4 números y 2 letras de modo aleatorio
 Clave numérica: clave de 4 caracteres  compuesta por 4 números aleatorios. 
 Código de Seguridad: Este corresponde a los dos últimos números, del número de documento del usuario, el cual está en su cedula de identidad como muestra la imagen. 
@@ -40,44 +40,44 @@ En este espacio uste pone el mensaje que quiere encubrir. En este mismo espacio 
 
 
 
-##Instrucciones
-##Ingresar a la cuenta:
+## Instrucciones
+## Ingresar a la cuenta:
 1-.Digitar primer nombre y apellido
 2-.Digitar Rut 
 3-. Digitar Numero de Documento de la cedula de identidad.
 
-##Generar contraseñas: Dependiendo si es Alfanumérica o numérica.
-##Clave Alfanumérica de 8 caracteres
+## Generar contraseñas: Dependiendo si es Alfanumérica o numérica.
+## Clave Alfanumérica de 8 caracteres
 1-. Escribe una palabra en el recuadro donde se indica “Palabra”
 2-. Presiona Generar Contraseña.
-##Clave numérica de 4 caracteres
+## Clave numérica de 4 caracteres
 1- Presiona Generar Contraseña.
 
-##Encubrir o encriptar mensaje
+## Encubrir o encriptar mensaje
 Para generar un mensaje encubierto, escribe donde dice mensaje, escoge un valor del 1 al 99 y presiona encriptar.
 El mensaje encubierto aparecerá en el recuadro de Mensaje Encriptado.
 
-##Descubrir o desencriptar mensaje.
+## Descubrir o desencriptar mensaje.
 Mensaje 
 Para desencriptar un mensaje, pega el mensaje encriptado en el recuadro de “mensaje encriptado” y digita tu código de seguridad. Luego, presiona desencriptar. El mensaje descubierto o desencriptado, aparecerá en el recuadro de Mensaje.
 
-##Enviar al Mail
+## Enviar al Mail
 Para enviar tu mensaje al mail ya sea encriptado o desencriptado, debes presionar el botón que esta abajo a la izquierda de la pantalla que dice “Enviar email”.
 
-##Enviar Whatsapp
+## Enviar Whatsapp
 Para enviar tu mensaje al whatsaap ya sea cubierto o descubierto, debes presionar el botón que esta al final de la pagina a la derecha. 
 
 
-##Planificación 
+## Planificación 
 Si bien se cumplió en gran parte la planificación inicial, esta se fue modificando según los testeos que se realizaron para mejorar su usabilidad.
 [Tablero de Trello]https://trello.com/b/5thmiH7Z/terceraedad  
 
-![Flujo](https://ibb.co/kD89KFR)
+! [Flujo](https://ibb.co/kD89KFR)
 
 
-##Prototipado
-![index](https://ibb.co/Dp571Q4)
-![mensaje](https://ibb.co/fN3m5YZ)
+## Prototipado
+! [index](https://ibb.co/Dp571Q4)
+! [mensaje](https://ibb.co/fN3m5YZ)
 
 
 ## Checklist
